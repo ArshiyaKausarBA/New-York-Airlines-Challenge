@@ -39,7 +39,9 @@ The aim of this project is to analyze the performance of airlines in 2013 and to
 
 📍 Frontier is the Airline that provides the most delayed service.<br> 
 
-📍 From LGA origin, LGA-BOS is the 3rd most popular route but with negative delay. Because only one Airline is used- US Airway Inc<br> 
+📍 From LGA origin, LGA-BOS is the 3rd most popular route but with negative delay.<br> 
+
+📍 Because only one Airline is used- US Airway Inc.<br> 
 
 📍 It's not the Airport that is causing the delay, it's the Airlines.<br> 
 
